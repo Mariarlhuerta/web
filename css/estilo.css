@@ -1,0 +1,84 @@
+.titulo{
+  color:#ff9999;
+  font-style: italic;
+
+font-variant: small-caps;
+}
+.estrella{
+  width: 30px;
+  height: 30px;
+}
+.vera {
+  width: 350px;
+  height: 250px;
+}
+
+.efron{
+  width: 150px;
+  height: 250px;
+
+}
+
+
+.redes-sociales{
+  max-width: 55px;
+  max-height: 55px;
+}
+#mariac{
+  max-height: 250px;
+}
+
+.body{
+  background-color: #ccebff;
+}
+;
+
+.d-block{
+  max-width: -width: 300px;
+  max-height: -height: 300px;
+
+}
+
+.perritos{
+  max-width: 25050px;
+  max-height: 200px;
+}
+.foto-perfil{
+  max-width: 150px;
+  max-height: 150px;
+}
+.banner a{
+  text-decoration: none;
+}
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-ra
